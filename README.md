@@ -8,18 +8,18 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Import the packages required.
+1.Import the packages required. 
 2.Read the dataset.
 3.Define X and Y array.
 4.Define a function for costFunction,cost and gradient.
-5.Define a function to plot the decision boundary and predict the Regression value.
+5.Define a function to plot the decision boundary and predict the Regression value. 
 
 ## Program:
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Praveen D
-RegisterNumber:212222240076  
+Developed by: THRIKESWAR P
+RegisterNumber:212222230162
 */
 import numpy as np
 import matplotlib.pyplot as plt
@@ -113,17 +113,16 @@ np.mean(predict(res.x,X) == y)
 ```
 
 ## Output:
-![image](https://github.com/praveenmax55/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497509/6d1d20a6-0b19-44f0-8c65-f6ceb115f7fb)
-![image](https://github.com/praveenmax55/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497509/9dfe49dd-09c0-4e43-816f-5d123ad9fa0d)
-![image](https://github.com/praveenmax55/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497509/9d82b5f8-43f7-40f4-8deb-d6aae8763f0e)
-![image](https://github.com/praveenmax55/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497509/731ab8b2-bcfa-4f95-a4e9-b0f3b49a93e6)
-![image](https://github.com/praveenmax55/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497509/ecd780ef-6b98-4d61-99ca-148fa5349207)
-![image](https://github.com/praveenmax55/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497509/f0bb4a94-1827-4266-98a6-eb6c185363f2)
-![image](https://github.com/praveenmax55/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497509/009e4a2f-cda6-488c-aca6-20b8abbee72b)
-![image](https://github.com/praveenmax55/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497509/a2a339a2-5f4a-4ef7-98ee-e50e10f8bb19)
-![image](https://github.com/praveenmax55/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497509/e13ad14e-906d-4af1-b490-d7b2f5dd2b8f)
-![image](https://github.com/praveenmax55/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497509/ef5a491a-f63b-4c07-82b8-8047ed9496e6)
-
+![1](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/04447526-9230-4d43-a37b-153034f4dc14)
+![2](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/0b9a727c-ec6d-4e70-866c-d3f55049c042)
+![3](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/8ad779ea-5490-4839-9aac-92fe0e0853de)
+![4](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/09505d40-a04c-462b-9f3d-e5abf89c1177)
+![5](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/429cf876-9731-41fc-83e6-18f471705eb4)
+![6](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/30e2985c-ab4d-4597-84ec-5e0f690dcc96)
+![7](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/9f14bfc9-008d-44d9-b3ae-1eb8e418328e)
+![8](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/542173b5-07cf-43ab-a9cd-21416db5f273)
+![9](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/25abce13-7b43-424d-b9ca-61c5320e62a0)
+![10](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/6d585b69-e29d-425c-878d-1e08b5c63a37)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
