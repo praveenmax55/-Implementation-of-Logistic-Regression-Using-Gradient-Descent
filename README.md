@@ -18,8 +18,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: THRIKESWAR P
-RegisterNumber:212222230162
+Developed by: PRAVEEN D
+RegisterNumber:212222240076
 */
 import numpy as np
 import matplotlib.pyplot as plt
@@ -115,7 +115,7 @@ np.mean(predict(res.x,X) == y)
 ## Output:
 ![1](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/04447526-9230-4d43-a37b-153034f4dc14)
 
-![image](https://github.com/praveenmax55/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497509/1c2a01aa-8557-42f4-92d1-09b3eebfd7da)
+![image](https://github.com/praveenmax55/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497509/359c3d1d-f786-4312-96d9-c09aea761919)
 
 ![3](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/8ad779ea-5490-4839-9aac-92fe0e0853de)
 ![4](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/09505d40-a04c-462b-9f3d-e5abf89c1177)
