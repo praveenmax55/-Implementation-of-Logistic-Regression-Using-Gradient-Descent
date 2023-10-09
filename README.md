@@ -115,7 +115,8 @@ np.mean(predict(res.x,X) == y)
 ## Output:
 ![1](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/04447526-9230-4d43-a37b-153034f4dc14)
 
-![image](https://github.com/praveenmax55/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497509/359c3d1d-f786-4312-96d9-c09aea761919)
+![image](https://github.com/praveenmax55/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497509/134221dd-c8dc-495f-bc3b-c11a06b16a80)
+
 
 ![3](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/8ad779ea-5490-4839-9aac-92fe0e0853de)
 ![4](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/09505d40-a04c-462b-9f3d-e5abf89c1177)
