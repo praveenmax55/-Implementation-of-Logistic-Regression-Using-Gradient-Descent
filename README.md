@@ -121,7 +121,9 @@ np.mean(predict(res.x,X) == y)
 ![3](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/8ad779ea-5490-4839-9aac-92fe0e0853de)
 ![4](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/09505d40-a04c-462b-9f3d-e5abf89c1177)
 ![5](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/429cf876-9731-41fc-83e6-18f471705eb4)
-![6](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/30e2985c-ab4d-4597-84ec-5e0f690dcc96)
+
+![image](https://github.com/praveenmax55/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497509/5a19c475-41b1-44ee-867f-f5732faf28d4)
+
 ![7](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/9f14bfc9-008d-44d9-b3ae-1eb8e418328e)
 ![8](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/542173b5-07cf-43ab-a9cd-21416db5f273)
 ![9](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/25abce13-7b43-424d-b9ca-61c5320e62a0)
