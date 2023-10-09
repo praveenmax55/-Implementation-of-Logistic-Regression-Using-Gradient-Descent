@@ -114,7 +114,9 @@ np.mean(predict(res.x,X) == y)
 
 ## Output:
 ![1](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/04447526-9230-4d43-a37b-153034f4dc14)
-![2](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/0b9a727c-ec6d-4e70-866c-d3f55049c042)
+
+![image](https://github.com/praveenmax55/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497509/1c2a01aa-8557-42f4-92d1-09b3eebfd7da)
+
 ![3](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/8ad779ea-5490-4839-9aac-92fe0e0853de)
 ![4](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/09505d40-a04c-462b-9f3d-e5abf89c1177)
 ![5](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/429cf876-9731-41fc-83e6-18f471705eb4)
@@ -122,7 +124,9 @@ np.mean(predict(res.x,X) == y)
 ![7](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/9f14bfc9-008d-44d9-b3ae-1eb8e418328e)
 ![8](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/542173b5-07cf-43ab-a9cd-21416db5f273)
 ![9](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/25abce13-7b43-424d-b9ca-61c5320e62a0)
-![10](https://github.com/Naveensrinivasan07/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475891/6d585b69-e29d-425c-878d-1e08b5c63a37)
+
+![image](https://github.com/praveenmax55/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497509/07b8b520-c39f-4613-ae91-5e20d9ffc3ee)
+
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
